@@ -22,5 +22,13 @@
   "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "tailwind.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishisspecial/SecondDeploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manishisspecial/SecondDeploy/issues"
+  },
+  "homepage": "https://github.com/manishisspecial/SecondDeploy#readme"
 }
